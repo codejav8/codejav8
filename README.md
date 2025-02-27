@@ -1,6 +1,6 @@
 ## Hi, my name is Jaime. 👋
  <h2> Passionate about technology and I like to learn programming with projects.</h2>
- <img src="https://www.canva.com/design/DAGgE26BCU4/kmFTd_Sj5UfUIh6a3micww/view?utm_content=DAGgE26BCU4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6891dfc8d1"></img>
+ <img src="https://github.com/codejav8/CodeJav/blob/91dfbe9b4a2c5fd65c8b7ecad888b2233c277c6a/HTML%2C%20CSS%2C%20JAVASCRIPT%20(1).png"></img>
 
 
 <!--
