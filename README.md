@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, my name is Jaime. 👋
+## Passionate about technology and I like to learn programming with projects.. 👋
+
 
 <!--
 **codejav8/codejav8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
