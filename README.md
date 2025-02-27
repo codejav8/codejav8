@@ -1,5 +1,5 @@
 ## Hi, my name is Jaime. 👋
-## Passionate about technology and I like to learn programming with projects.. 👋
+ <h2> Passionate about technology and I like to learn programming with projects.</h2>
 
 
 <!--
